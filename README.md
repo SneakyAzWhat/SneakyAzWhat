@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [@SneakyAzWhat](https://twitter.com/SneakyAzWhat)
 
-- 👀 I’m interested in: C# stuff primarily with a little bit of C++ and Python stuff on the side :)
+- 👀 I’m interested in: Learning especially related to GameDev
 
-- 🌱 I’m currently learning: WPF, Unreal engine
+- 🌱 I’m currently learning: Unreal engine//Blender
 
 - 💞️ I’m looking to collaborate on: Nothing in particular at the moment.
 
