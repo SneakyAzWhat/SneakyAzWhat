@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on: Game modding related stuff :)
 
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 [Youtube](https://www.youtube.com/sneakyazwhat)  
 [Bluesky](https://bsky.app/profile/sneakyazwhat.bsky.social)  
 [Twitch](https://www.twitch.tv/sneakyazwhat)  
