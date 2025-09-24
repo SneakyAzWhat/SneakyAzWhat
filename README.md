@@ -1,12 +1,19 @@
-- 👋 Hi, I’m [@SneakyAzWhat](https://twitter.com/SneakyAzWhat)
+- 👋 I’m SneakyAzWhat
 
-- 👀 I’m interested in: Learning :)
+- 👀 I’m interested in: Creating small useful applications and modding games like ARMA, Project Zomboid, GTA6
 
-- 🌱 I’m currently learning: Blender/Arma Reforger Modding
+- 🌱 I’m currently learning: Blender (primarily focusing on weapons) and C# adjacent stuff including desktop and web apps along with game modding.
 
-- 💞️ I’m looking to collaborate on: Game related stuff :)
+- 💞️ I’m looking to collaborate on: Game modding related stuff :)
 
-- 📫 How to reach me: [twitter](https://twitter.com/SneakyAzWhat) (DMs are open), discord: SneakyAzWhat, [email](mailto:sneakyazwhat@gmail.com)
+- 📫 How to reach me: 
+[Youtube](https://www.youtube.com/sneakyazwhat)
+[Bluesky](https://bsky.app/profile/sneakyazwhat.bsky.social)
+[Twitch](https://www.twitch.tv/sneakyazwhat)
+[twitter](https://twitter.com/SneakyAzWhat) (DMs are open)
+[Discord Server](https://discord.gg/7zQVBV8Jtn)
+Discord handle: SneakyAzWhat
+[email](mailto:sneakyazwhat@gmail.com)
 
 
 ![SneakyAzWhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneakyazwhat&count_private=true)
